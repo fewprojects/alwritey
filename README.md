@@ -2,8 +2,6 @@
 
 # alwritey.css
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 It is a mini css file that will give help you to maintain fluid typography and for your text based website.
 
 ## demo
