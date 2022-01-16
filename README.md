@@ -19,7 +19,7 @@ Some minimal benefits of using alwritey.css
 ## Installation
 It's as simple as you do with any regular css file
 
-Coppy this following code snippet into ```<head>...</head> ``` section of your HTML document.  
+Coppy this following code snippet into ```<head>...</head>```  section of your HTML document.  
 
 ```html
 <link rel="stylesheet" href="alwritey.css">
