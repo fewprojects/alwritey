@@ -26,4 +26,4 @@ Coppy this following code snippet into ```<head>...</head>```  section of your H
 ```
 ## License
 
-MIT
+ GPL-3.0
