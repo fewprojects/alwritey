@@ -1,0 +1,134 @@
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: 0 0;
+}
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 1rem;
+  line-height: 1.15;
+}
+.bold {
+  font-weight: 700;
+}
+.italic {
+  font-style: italic;
+}
+.line-cut {
+  text-decoration: line-through;
+}
+.highlight {
+  background-color: rgba(252, 208, 48, 0.8);
+  padding: 0 0.4rem;
+}
+.underline {
+  text-decoration: underline;
+}
+.code {
+  font-family: monospace;
+  background-color: #ddd;
+  border-radius: 3px;
+  font-size: inherit;
+  color: #333;
+  padding: 0.3rem 0.5rem;
+}
+h1 {
+  font-size: calc(2.25rem + 2.25vw);
+  line-height: calc(2.25rem + 2.25vw);
+}
+h2 {
+  font-size: calc(1.875rem + 1.875vw);
+}
+h3 {
+  font-size: calc(1.5rem + 1.5vw);
+}
+h4 {
+  font-size: calc(1.25rem + 1.25vw);
+}
+h5 {
+  font-size: calc(1.125rem + 1.125vw);
+}
+h6 {
+  font-size: calc(1rem + 1vw);
+}
+p {
+  font-size: calc(0.78rem + 0.5vw);
+  line-height: calc(1.25rem + 0.875vw);
+}

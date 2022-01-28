@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+body {
+  margin: 0;
+  font-family: "JetBrains Mono", monospace;
+  letter-spacing: -1px;
+  padding: 0;
+}
+.header {
+  padding: 2rem 2rem;
+  max-width: 980px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 2;
+}
+.header .links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header .links p a {
+  margin: 0rem 1rem;
+  font-weight: bold;
+  color: #121212;
+}
+.header .logo h6 {
+  color: #3d84e0;
+}
+.main {
+  padding: 1rem 2rem;
+  justify-content: center;
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.main .section {
+  margin: 2rem 0rem;
+}
+.main .section .container .tags {
+  color: #3d84e0;
+  margin: 2rem 0rem;
+}
+.main .section .container .codebox {
+  margin: 1rem 0rem;
+  padding: 0.875rem 2rem;
+  background-color: #d3d3d3;
+  justify-content: center;
+}
+.main .section .container .warning{
+  padding: 0.875rem 1rem;
+  background-color: #ffe3c2;
+  color:#683e0d;
+}
+.main .section .container li a {
+  color: #3d84e0;
+}
+.footer {
+  padding: 2rem;
+}
