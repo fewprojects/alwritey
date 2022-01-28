@@ -2,7 +2,7 @@
 
 # alwritey.css
 
-It is a mini css file that will give help you to maintain fluid typography and for your text based website.
+A mini CSS file that will do the magic of fluid typography for your website
 
 ## demo
 To see live example of fluid typography, [click here]()
@@ -10,19 +10,23 @@ To see live example of fluid typography, [click here]()
 ## Features
 Some minimal benefits of using alwritey.css 
 
-- You don't neeed to write font size for every each screen, just use alwritey.css to automate this process
+- You don't neeed to write font size for every each screen, just use typefluid.css to automate this process.
 
-- Easy & convenient css classes to style text anyhow you like
+- No class-based responsive typography, typefluid is sementic for font-size
 
-- Make your text-based blog to look minimal and elegent
-- 
+- Few Class based text-styles like bold, italic, highlight, line-cut and code are available
+
 ## Installation
-It's as simple as you do with any regular css file
 
-Coppy this following code snippet into ```<head>...</head>```  section of your HTML document.  
+- Install using NPM for your Javascript based project
+
+```bash
+npm i typefluid
+```
+- Copy this following code snippet into ```<head>...</head>```  section of your HTML document.  
 
 ```html
-<link rel="stylesheet" href="alwritey.css">
+<link rel="stylesheet" href="typefluid.css">
 ```
 ## License
 
