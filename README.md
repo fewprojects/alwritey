@@ -27,7 +27,7 @@ npm i typefluid
 - Copy this following code snippet into `<head>...</head>` section of your HTML document.
 
 ```html
-<link rel="stylesheet" href="typefluid.css" />
+<link rel="stylesheet" href="https://typefluid.netlify.app/typefluid/index.css" />
 ```
 
 ## License
