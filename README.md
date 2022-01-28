@@ -4,7 +4,7 @@ A mini CSS file that will do the magic of fluid typography for your website
 
 ## demo
 
-To see live example of fluid typography, [click here]()
+To see live example of fluid typography, [click here](https://typefluid.netlify.app/)
 
 ## Features
 
