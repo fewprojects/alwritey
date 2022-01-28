@@ -1,5 +1,3 @@
-[![typefluid_logo]()]()
-
 # typefluid.css
 
 A mini CSS file that will do the magic of fluid typography for your website
